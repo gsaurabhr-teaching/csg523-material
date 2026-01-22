@@ -26,6 +26,8 @@ Poorly written requirements lead to ambiguous behavior and unverifiable systems.
 ## Submission guidelines
 
 1. Individual submission as described below under `tasks` should be submitted on Google Classroom.
+   > Download a copy of this file to make any changes.
+
    > Add your name on top of this sheet.
 
    > Task 0 should be completed by entering your priorities in this same file in the infusion pump section below.
@@ -34,7 +36,7 @@ Poorly written requirements lead to ambiguous behavior and unverifiable systems.
 
    > After completing this document, paste it into `https://apitemplate.io/pdf-tools/convert-markdown-to-pdf/`, generate the PDF and submit it on Google Classroom.
 
-2. **Group submission:**  
+3. **Group submission:**  
    > 1. As a group, pool together your requirements, discuss and come up with a concise list (priority 1 and 2 only).  
    > 2. Add these to the `docs/sections/requirements.md` in your group repository, commit and push to GitHub.
 ---
