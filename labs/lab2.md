@@ -89,6 +89,7 @@ Answer briefly (3–4 sentences):
 ## Submission Notes
 
 - This worksheet is submitted **individually**.
+- Follow same procedure as last time - convert to PDF and submit on Google Classroom.
 - It will be used by your team to:
   - select actors,
   - choose representative use cases,
