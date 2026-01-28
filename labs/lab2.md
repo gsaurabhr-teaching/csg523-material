@@ -113,3 +113,6 @@ Write and flash a simple hello world program to your hardware using your toolcha
 Minimal function: the system should send 'hello world' over USB / UART to your computer.
 Extended: System should read a string that you send over USB / UART and respond by reversing the string.
 
+Add a screenshot here, or to the final PDF showing the terminal on your computer printing the hello world message from your hardware system.
+
+
