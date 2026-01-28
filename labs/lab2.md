@@ -101,3 +101,15 @@ Answer briefly (3–4 sentences):
 ## Reminder
 
 > Good behavioral models begin with clear system boundaries and concrete use cases.
+
+# Part II (learning to program embedded systems)
+
+## Toolchain setup
+Have you set up the toolchain for your hardware platform? _____________________________________  
+Add a screenshot here, or to the final PDF showing the project set up with the correct toolchain.
+
+## Hello World program
+Write and flash a simple hello world program to your hardware using your toolchain.
+Minimal function: the system should send 'hello world' over USB / UART to your computer.
+Extended: System should read a string that you send over USB / UART and respond by reversing the string.
+
