@@ -19,7 +19,7 @@ By the end of this lab, your team will produce:
 - Module-level test definitions
 
 ## Submission
-Use the template provided [here]() to complete the tasks given below. Then add it to your repository under `???`.
+Use the template provided [here](https://github.com/gsaurabhr-teaching/csg523-material/blob/main/labs/lab4-group-sample.md) to complete the tasks given below. Then add it to your repository under `docs/sections/architecture.md`.
 
 ---
 
